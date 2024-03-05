@@ -1,3 +1,3 @@
 # juice
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/adamsondavid/juice)
+A simple JSX renderer that directly targets the DOM. Inspired by React and the reactivity of Vue 🧃🍊
